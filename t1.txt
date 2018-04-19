@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 hi 
 first file
 
 hello
 
+=======
+
+hi
+this is first file
+>>>>>>> 2e5215e75dba74bb42b88ccf6ecf647b1e944e2f
